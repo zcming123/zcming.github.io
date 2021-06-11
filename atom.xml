@@ -6,7 +6,7 @@
   <link href="https://zcming123.github.io/atom.xml" rel="self"/>
   
   <link href="https://zcming123.github.io/"/>
-  <updated>2021-06-08T02:27:24.959Z</updated>
+  <updated>2021-06-10T08:36:14.277Z</updated>
   <id>https://zcming123.github.io/</id>
   
   <author>
@@ -18,14 +18,32 @@
   
   <entry>
     <title>a article</title>
-    <link href="https://zcming123.github.io/2021/06/08/a-article/"/>
-    <id>https://zcming123.github.io/2021/06/08/a-article/</id>
+    <link href="https://zcming123.github.io/2021/06/08/markdown-yu-fa-shi-li/"/>
+    <id>https://zcming123.github.io/2021/06/08/markdown-yu-fa-shi-li/</id>
     <published>2021-06-08T02:27:24.000Z</published>
-    <updated>2021-06-08T02:27:24.959Z</updated>
+    <updated>2021-06-10T08:36:14.277Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;http://markdown.p2hp.com/basic-syntax/&quot; title=&quot;工具网站&quot;&gt;Markdown中文文档&lt;/a&gt;&lt;/p&gt;
+&lt;!-- TOC --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a</summary>
+        
+      
     
     
     
+    <category term="Markdown" scheme="https://zcming123.github.io/categories/Markdown/"/>
     
+    
+    <category term="Markdown" scheme="https://zcming123.github.io/tags/Markdown/"/>
+    
+    <category term="Typora" scheme="https://zcming123.github.io/tags/Typora/"/>
     
   </entry>
   

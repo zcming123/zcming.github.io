@@ -1,2 +1,2 @@
 # zcming.github.io
-推送到Github
+推送到GitHub
